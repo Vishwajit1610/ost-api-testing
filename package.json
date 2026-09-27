@@ -1,0 +1,13 @@
+{
+  "name": "ost-api-testing-food-delivery",
+  "version": "1.0.0",
+  "description": "Small CRUD REST API for Open Source Technologies API testing Case Study and CEP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
